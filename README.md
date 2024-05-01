@@ -14,7 +14,9 @@ Download Kode PHP pada link.
   (Tabel dan Relasinya bebas ya)
 - Buat CRUD dari tabel baru tersebut
 
+
 ## Desain Database
+![Desain DB](https://github.com/cadzshi/TP4DPBO2024C1/assets/100210168/f6d5bdf2-8ccc-40db-955d-dfb8bd3b3015)
 
 ## Alur dan Dokumentasi
 
